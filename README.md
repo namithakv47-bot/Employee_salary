@@ -17,7 +17,7 @@ The dashboard provides meaningful insights through a combination of visualizatio
 * Slicers for interactive filtering
 
 💡 Purpose
-The goal of this project is to demonstrate how **data visualization tools like Power BI** can transform raw data into actionable insights, supporting better decision-making in HR and business analytics.
+ The goal of this project is to demonstrate how **data visualization tools like Power BI** can transform raw data into actionable insights, supporting better decision-making in HR and business analytics.
 
 🛠️ Tools & Technologies
 * Power BI
